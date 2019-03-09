@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cloudAnchors</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="resolve_dialog_title">Resolve Anchor</string>
+    <string name="resolve_button_text">Resolve</string>
+    <string name="room_button_string">room</string>
+    <string name="clear">Clear</string>
+</resources>
